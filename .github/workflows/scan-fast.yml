@@ -1,0 +1,93 @@
+name: scan-fast
+on:
+  schedule:     # every 5 minutes, weekdays (UTC)
+    - cron: "*/5 * * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # needed to push commits
+
+concurrency:
+  group: scan-fast
+  cancel-in-progress: true
+
+jobs:
+  pull-scan:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Toronto
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gate by Toronto market hours
+        id: gate
+        run: |
+          export TZ=America/Toronto
+          DOW=$(date +%u)         # 1..7 (Mon..Sun)
+          HM=$(date +%H%M)        # e.g., 0935
+          if [ "$DOW" -gt 5 ]; then echo "outside=true" >> $GITHUB_OUTPUT; exit 0; fi
+          # trading window 09:30–16:00 Toronto
+          if [ "$HM" -lt 0930 ] || [ "$HM" -gt 1600 ]; then
+            echo "outside=true" >> $GITHUB_OUTPUT
+          else
+            echo "outside=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Exit if outside trading window
+        if: steps.gate.outputs.outside == 'true'
+        run: echo "Outside market hours — skipping."
+
+      - name: Fetch fast-lane CSVs (commit-on-diff with normalization)
+        if: steps.gate.outputs.outside == 'false'
+        env:
+          SCAN_URL:         ${{ secrets.SCAN_URL }}
+          PRICES_URL:       ${{ secrets.PRICES_URL }}
+          GLOBAL_CHECK_URL: ${{ secrets.GLOBAL_CHECK_URL }}
+          HEALTH_URL:       ${{ secrets.HEALTH_URL }}
+          GF_URL:           ${{ secrets.GF_URL }}          # __GF_FETCH__
+        run: |
+          set -euo pipefail
+          mkdir -p scan system
+          TS_UTC=$(date -u +%Y-%m-%dT%H%MZ)
+          DATE_UTC=$(date -u +%F)
+
+          fetch() {
+            NAME="$1"; URL="$2"; [ -z "${URL:-}" ] && return 0
+            TMP="/tmp/$NAME.csv"
+            # robust curl: retries, timeouts
+            curl -fsSL --retry 5 --retry-delay 2 --max-time 45 "$URL" -o "$TMP"
+            # normalize line endings + trim trailing spaces (so byte compare is stable)
+            sed -i 's/\r$//' "$TMP"
+            awk '{sub(/[ \t]+$/, ""); print}' "$TMP" > "/tmp/${NAME}.norm.csv" && mv "/tmp/${NAME}.norm.csv" "$TMP"
+            # sanity: non-empty and has header
+            [ -s "$TMP" ] || { echo "Empty CSV for $NAME; skipping commit."; return 0; }
+            head -1 "$TMP" | grep -qi 'ticker\|symbol\|price\|date' || echo "WARN: $NAME header not recognized"
+
+            LATEST="system/${NAME}-latest.csv"
+            SNAP="scan/${DATE_UTC}/${NAME}-${TS_UTC}.csv"
+            mkdir -p "scan/${DATE_UTC}"
+
+            if ! test -f "$LATEST" || ! cmp -s "$TMP" "$LATEST"; then
+              cp "$TMP" "$LATEST"
+              cp "$TMP" "$SNAP"
+              git add "$LATEST" "$SNAP"
+              echo "Updated $NAME"
+            else
+              echo "No change for $NAME"
+            fi
+          }
+
+          fetch "SCAN"         "$SCAN_URL"
+          fetch "Prices"       "$PRICES_URL"
+          fetch "GLOBAL_CHECK" "$GLOBAL_CHECK_URL"
+          fetch "HEALTH"       "$HEALTH_URL"
+          fetch "__GF_FETCH__" "$GF_URL"
+
+          if git diff --cached --quiet; then
+            echo "No updates to commit."
+          else
+            git config user.name  "github-actions"
+            git config user.email "actions@github.com"
+            git commit -m "fast-lane: refresh $TS_UTC"
+            git push
+          fi
