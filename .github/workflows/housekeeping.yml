@@ -1,0 +1,27 @@
+name: housekeeping
+on:
+  schedule:
+    - cron: "10 3 * * *"   # 03:10 UTC nightly
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Delete scan/daily snapshots older than 30 days (working tree)
+        run: |
+          set -euo pipefail
+          find scan  -mindepth 1 -maxdepth 1 -type d -mtime +30 -print -exec git rm -r {} \; || true
+          find daily -mindepth 1 -maxdepth 1 -type d -mtime +30 -print -exec git rm -r {} \; || true
+          if git diff --cached --quiet; then
+            echo "Nothing to prune."
+          else
+            git config user.name  "github-actions"
+            git config user.email "actions@github.com"
+            git commit -m "housekeeping: prune old snapshots"
+            git push
+          fi
