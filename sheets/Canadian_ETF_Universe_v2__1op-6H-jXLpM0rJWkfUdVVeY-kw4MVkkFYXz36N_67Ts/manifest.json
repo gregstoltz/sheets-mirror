@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "mode": "discover",
+  "system": {
+    "Prices":   "https://raw.githubusercontent.com/gregstoltz/sheets-mirror/main/sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/Prices.csv",
+    "Settings": "https://raw.githubusercontent.com/gregstoltz/sheets-mirror/main/sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/Settings.csv",
+    "Logs":     "https://raw.githubusercontent.com/gregstoltz/sheets-mirror/main/sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/Logs.csv",
+    "Portfolio":"https://raw.githubusercontent.com/gregstoltz/sheets-mirror/main/sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/Portfolio.csv"
+  },
+  "discovery": {
+    "owner":  "gregstoltz",
+    "repo":   "sheets-mirror",
+    "branch": "main",
+    "pinSha": false,
+    "prefixes": [
+      "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/"
+    ],
+    "includeExtensions": [".csv", ".gz"],
+    "exclude": [
+      "/archive/", "/old/", "/tmp/", "/.~", "/__MACOSX/", ".ipynb_checkpoints"
+    ],
+    "categories": {
+      "ta":   { "pattern": "^TA_([A-Z0-9\\.\\-]+)\\.csv(\\.gz)?$", "role": "TA" },
+      "hist": { "pattern": "^H_([A-Z0-9\\.\\-]+)\\.csv(\\.gz)?$",  "role": "H"  },
+
+      "benchmarks": { "pattern": "^BM_([A-Z0-9\\.\\-]+)\\.csv(\\.gz)?$", "role": "Benchmark" },
+      "universe":   { "pattern": "^(Universe|Tickers|Symbols)\\.csv(\\.gz)?$", "role": "Universe" },
+      "aliases":    { "pattern": "^(Aliases|Ticker_Aliases)\\.csv(\\.gz)?$",   "role": "Aliases" },
+      "sectors":    { "pattern": "^(Sectors|GICS|Sector_Map)\\.csv(\\.gz)?$",  "role": "Sectors" },
+      "rs_inputs":  { "pattern": "^(RelativeStrength|RS_.*)\\.csv(\\.gz)?$",   "role": "RS" },
+      "macro":      { "pattern": "^(Macro|Rates|Inflation|YieldCurve|CADUSD)\\.csv(\\.gz)?$", "role": "Macro" },
+      "calendar":   { "pattern": "^(Holidays|TradingCalendar)\\.csv(\\.gz)?$", "role": "Calendar" },
+      "dividends":  { "pattern": "^DIV_([A-Z0-9\\.\\-]+)\\.csv(\\.gz)?$",      "role": "Dividends" },
+      "splits":     { "pattern": "^SPLIT_([A-Z0-9\\.\\-]+)\\.csv(\\.gz)?$",    "role": "Splits" },
+      "overrides":  { "pattern": "^(Overrides|Manual_Overrides)\\.csv(\\.gz)?$", "role": "Overrides" }
+    }
+  },
+  "schema": {
+    "Prices":   {"requiredCols": ["Ticker","Price"]},
+    "Settings": {"requiredCols": ["Key","Value"]},
+    "Portfolio":{"requiredCols": ["Ticker","Qty"], "optionalCols": ["Cost","AvgPrice"]},
+    "H":        {"requiredCols": ["Date","Open","High","Low","Close","Volume"]},
+    "TA":       {"requiredCols": ["Date"], "aliases": {
+      "MA50": ["MA50","SMA50","MA_50"],
+      "ATR_Pct":["ATR%","ATR_Pct","ATRpct"],
+      "MACD_Hist":["MACD_Hist","MACD Hist","MACDHistogram"],
+      "VWAP_10":["VWAP_10","VWAP10","VWAP(10)"]
+    }},
+    "Benchmark":{"requiredCols": ["Date","Close"]},
+    "RS":       {"requiredCols": ["Ticker","RS"]},
+    "Aliases":  {"requiredCols": ["Ticker","Alias"]},
+    "Sectors":  {"requiredCols": ["Ticker","Sector"]},
+    "Macro":    {"requiredCols": ["Series","Date","Value"]},
+    "Calendar": {"requiredCols": ["Date","IsTradingDay"]},
+    "Dividends":{"requiredCols": ["Date","Amount"]},
+    "Splits":   {"requiredCols": ["Date","Ratio"]},
+    "Overrides":{"requiredCols": ["Key","Value"]}
+  },
+  "runtime": {
+    "rs": {
+      "benchmark": "VFV",  // default, can be any in BM_* or discovered
+      "lookbackDays": 60
+    },
+    "buyRule": {
+      "priceAboveMA50": true,
+      "macdHistPositive": true
+    },
+    "stopRule": {
+      "useAtrPct": true,
+      "atrWindow": 14
+    },
+    "sizing": {
+      "mode": "equal_cash_if_no_portfolio"
+    }
+  }
+}
