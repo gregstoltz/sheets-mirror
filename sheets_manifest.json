@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-10-01T00:40:54-04:00",
-  "count": 77,
+  "generatedAt": "2025-10-01T01:40:53-04:00",
+  "count": 60,
   "items": [
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -8,7 +8,7 @@
       "sheetName": "SCAN",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/SCAN.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/SCAN.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -16,7 +16,7 @@
       "sheetName": "TA_HCAL",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HCAL.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HCAL.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -24,7 +24,7 @@
       "sheetName": "TA_HDIV",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HDIV.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HDIV.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -32,7 +32,7 @@
       "sheetName": "TA_HXF",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HXF.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HXF.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -40,7 +40,7 @@
       "sheetName": "TA_QQC-F",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_QQC-F.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_QQC-F.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -48,7 +48,7 @@
       "sheetName": "TA_HGU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HGU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HGU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -56,7 +56,7 @@
       "sheetName": "TA_HND",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HND.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HND.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -64,7 +64,7 @@
       "sheetName": "TA_HNU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HNU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HNU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -72,7 +72,7 @@
       "sheetName": "TA_HOD",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HOD.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HOD.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -80,7 +80,7 @@
       "sheetName": "TA_HOU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HOU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HOU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -88,7 +88,7 @@
       "sheetName": "TA_HUC",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HUC.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HUC.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -96,7 +96,7 @@
       "sheetName": "TA_HURA",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HURA.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HURA.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -104,7 +104,7 @@
       "sheetName": "TA_HMAX",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HMAX.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HMAX.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -112,7 +112,7 @@
       "sheetName": "H_XIU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XIU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XIU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -120,7 +120,7 @@
       "sheetName": "H_XBB",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XBB.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XBB.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -128,7 +128,7 @@
       "sheetName": "H_XGB",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XGB.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XGB.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -136,7 +136,7 @@
       "sheetName": "H_XIT",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XIT.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XIT.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -144,7 +144,7 @@
       "sheetName": "H_XEG",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XEG.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XEG.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -152,7 +152,7 @@
       "sheetName": "H_XFN",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XFN.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XFN.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -160,7 +160,7 @@
       "sheetName": "H_XLB",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XLB.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XLB.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -168,7 +168,7 @@
       "sheetName": "H_XMA",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XMA.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XMA.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -176,7 +176,7 @@
       "sheetName": "H_XRE",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XRE.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XRE.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -184,7 +184,7 @@
       "sheetName": "H_XSB",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XSB.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XSB.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -192,7 +192,7 @@
       "sheetName": "H_XUT",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XUT.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XUT.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -200,7 +200,7 @@
       "sheetName": "H_ZQQ",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZQQ.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZQQ.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -208,7 +208,7 @@
       "sheetName": "H_XQQ",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XQQ.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_XQQ.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -216,7 +216,7 @@
       "sheetName": "H_HXQ",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HXQ.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HXQ.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -224,7 +224,7 @@
       "sheetName": "H_ZEB",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZEB.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZEB.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -232,7 +232,7 @@
       "sheetName": "H_ZBK",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZBK.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZBK.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -240,7 +240,7 @@
       "sheetName": "H_ZLB",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZLB.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZLB.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -248,7 +248,7 @@
       "sheetName": "H_ZLU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZLU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZLU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -256,7 +256,7 @@
       "sheetName": "H_ZWC",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZWC.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZWC.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -264,7 +264,7 @@
       "sheetName": "H_ZRE",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZRE.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZRE.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -272,7 +272,7 @@
       "sheetName": "H_ZUT",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZUT.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZUT.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -280,7 +280,7 @@
       "sheetName": "H_ZAG",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZAG.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZAG.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -288,7 +288,7 @@
       "sheetName": "H_ZFL",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZFL.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZFL.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -296,7 +296,7 @@
       "sheetName": "H_ZEO",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZEO.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_ZEO.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -304,7 +304,7 @@
       "sheetName": "H_CGL",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_CGL.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_CGL.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -312,7 +312,7 @@
       "sheetName": "H_KILO",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_KILO.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_KILO.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -320,7 +320,7 @@
       "sheetName": "H_HQU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HQU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HQU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -328,7 +328,7 @@
       "sheetName": "H_HQD",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HQD.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HQD.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -336,7 +336,7 @@
       "sheetName": "H_HED",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HED.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HED.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -344,7 +344,7 @@
       "sheetName": "H_HEU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HEU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HEU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -352,7 +352,7 @@
       "sheetName": "H_HGD",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HGD.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HGD.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -360,7 +360,7 @@
       "sheetName": "H_HGU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HGU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HGU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -368,7 +368,7 @@
       "sheetName": "H_HND",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HND.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HND.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -376,7 +376,7 @@
       "sheetName": "H_HNU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HNU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HNU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -384,7 +384,7 @@
       "sheetName": "H_HOD",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HOD.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HOD.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -392,7 +392,7 @@
       "sheetName": "H_HOU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HOU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HOU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -400,7 +400,7 @@
       "sheetName": "H_HUC",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HUC.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HUC.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -408,7 +408,7 @@
       "sheetName": "H_HURA",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HURA.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HURA.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -416,7 +416,7 @@
       "sheetName": "H_HMAX",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HMAX.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HMAX.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -424,7 +424,7 @@
       "sheetName": "H_HCAL",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HCAL.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HCAL.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -432,7 +432,7 @@
       "sheetName": "H_HDIV",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HDIV.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HDIV.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -440,7 +440,7 @@
       "sheetName": "H_HXF",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HXF.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_HXF.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -448,7 +448,7 @@
       "sheetName": "H_QQC-F",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_QQC-F.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/H_QQC-F.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -456,7 +456,7 @@
       "sheetName": "TA_XIU",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XIU.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XIU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -464,7 +464,7 @@
       "sheetName": "TA_XBB",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XBB.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XBB.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -472,7 +472,7 @@
       "sheetName": "TA_XGB",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XGB.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XGB.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     },
     {
       "spreadsheetTitle": "Canadian ETF Universe (v2)",
@@ -480,143 +480,7 @@
       "sheetName": "TA_XIT",
       "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XIT.csv",
       "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XIT.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_XIC",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XIC.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XIC.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_VCN",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_VCN.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_VCN.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_ZCN",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZCN.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZCN.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_XEI",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XEI.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_XEI.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_VDY",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_VDY.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_VDY.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_ZDV",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZDV.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZDV.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_ZSP",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZSP.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZSP.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_VFV",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_VFV.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_VFV.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_VUN",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_VUN.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_VUN.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_ZUT",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZUT.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZUT.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_ZAG",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZAG.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZAG.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_ZFL",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZFL.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZFL.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_ZEO",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZEO.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_ZEO.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_CGL",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_CGL.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_CGL.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_KILO",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_KILO.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_KILO.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_HQU",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HQU.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HQU.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
-    },
-    {
-      "spreadsheetTitle": "Canadian ETF Universe (v2)",
-      "spreadsheetId": "1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts",
-      "sheetName": "TA_HQD",
-      "csvPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HQD.csv",
-      "jsonPath": "sheets/Canadian_ETF_Universe_v2__1op-6H-jXLpM0rJWkfUdVVeY-kw4MVkkFYXz36N_67Ts/TA_HQD.json",
-      "updatedAt": "2025-10-01T00:40:54-04:00"
+      "updatedAt": "2025-10-01T01:40:53-04:00"
     }
   ]
 }
