@@ -1,0 +1,754 @@
+{
+  "workbookId": "1iClfgrC4QaJ7Wb00dPoeg6DANCc1VisSqds-yhXtL2M",
+  "workbookName": "ETF Universe v5",
+  "generatedAt": "2025-10-27T20:59:18.768Z",
+  "branch": "main",
+  "basePath": "outputs",
+  "final": false,
+  "files": [
+    {
+      "sheetName": "Settings",
+      "path": "outputs/core/Settings.csv",
+      "error": "PUT outputs/core/Settings.csv failed (409): {\"message\":\"Repository rule violations found\\n\\nSecret detected in content\\n\\n\",\"metadata\":{\"secret_scanning\":{\"bypass_placeholders\":[{\"placeholder_id\":\"34fJ7AaG3EM3tfev13IM7dkBzMS\",\"token_type\":\"GITHUB_TOKEN_V2\"}]}},\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+      "updatedAt": "2025-10-27T20:55:22.433Z"
+    },
+    {
+      "sheetName": "Prices",
+      "path": "outputs/core/Prices.csv",
+      "rows": 992,
+      "cols": 5,
+      "sheetId": 1810863751,
+      "sha": "6c6b7e3e093cb3b013549766008c116e0515a776",
+      "updatedAt": "2025-10-27T20:55:24.924Z"
+    },
+    {
+      "sheetName": "Routes",
+      "path": "outputs/core/Routes.csv",
+      "rows": 133,
+      "cols": 4,
+      "sheetId": 504682399,
+      "sha": "921935771ca94a34b1b43a4ed4550675a5960406",
+      "updatedAt": "2025-10-27T20:55:27.148Z"
+    },
+    {
+      "sheetName": "HEALTH",
+      "path": "outputs/core/HEALTH.csv",
+      "rows": 134,
+      "cols": 6,
+      "sheetId": 432784898,
+      "sha": "046a9a5b4232d098178faa55ac6c3b87e8c128b2",
+      "updatedAt": "2025-10-27T20:55:29.239Z"
+    },
+    {
+      "sheetName": "SCAN",
+      "path": "outputs/core/SCAN.csv",
+      "rows": 134,
+      "cols": 62,
+      "sheetId": 1375435285,
+      "sha": "9b1965145a480feed9409f7794da9804271c1595",
+      "updatedAt": "2025-10-27T20:55:31.485Z"
+    },
+    {
+      "sheetName": "Links",
+      "path": "outputs/core/Links.csv",
+      "rows": 274,
+      "cols": 7,
+      "sheetId": 398853508,
+      "sha": "35bd8d9694554660bde6034401848848ea9e4bbd",
+      "updatedAt": "2025-10-27T20:55:33.721Z"
+    },
+    {
+      "sheetName": "Logs",
+      "path": "outputs/core/Logs.csv",
+      "rows": 276,
+      "cols": 5,
+      "sheetId": 1401835814,
+      "sha": "9eb381fdf7227a52585bfaa8aa7bba9207a4ee3e",
+      "updatedAt": "2025-10-27T20:55:36.029Z"
+    },
+    {
+      "sheetName": "TA_^STOXX50E",
+      "path": "outputs/ta/%5ESTOXX50E.csv",
+      "rows": 961,
+      "cols": 49,
+      "sheetId": 201617623,
+      "sha": "fa9b8077175140199ce9c768293af5fe75d9f040",
+      "updatedAt": "2025-10-27T20:55:39.139Z"
+    },
+    {
+      "sheetName": "TA_^VIX",
+      "path": "outputs/ta/%5EVIX.csv",
+      "rows": 991,
+      "cols": 49,
+      "sheetId": 719889480,
+      "sha": "5b512a434c8ec2ab1804159b2253596f0429a947",
+      "updatedAt": "2025-10-27T20:55:43.011Z"
+    },
+    {
+      "sheetName": "H_ACWI",
+      "path": "outputs/h/ACWI.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 2036943975,
+      "sha": "aab2c1e9fff4e8210cdd2fd2e912b1c0c68a3426",
+      "updatedAt": "2025-10-27T20:55:45.133Z"
+    },
+    {
+      "sheetName": "TA_ACWI",
+      "path": "outputs/ta/ACWI.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1393030024,
+      "sha": "263efab52d166e5c39fc80c7ee87900dd54eb24f",
+      "updatedAt": "2025-10-27T20:55:48.286Z"
+    },
+    {
+      "sheetName": "H_ACWX",
+      "path": "outputs/h/ACWX.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 532282998,
+      "sha": "7285f991519905d67051385c74c4ef0932f7be57",
+      "updatedAt": "2025-10-27T20:55:50.417Z"
+    },
+    {
+      "sheetName": "TA_ACWX",
+      "path": "outputs/ta/ACWX.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1858924594,
+      "sha": "a04f9e607202d78f1a39520abb4df68b3956b6ec",
+      "updatedAt": "2025-10-27T20:55:53.369Z"
+    },
+    {
+      "sheetName": "H_AGG",
+      "path": "outputs/h/AGG.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 65756274,
+      "sha": "4b614e0330c9926de8080fa900176a2a3c8dc0c1",
+      "updatedAt": "2025-10-27T20:55:55.616Z"
+    },
+    {
+      "sheetName": "TA_AGG",
+      "path": "outputs/ta/AGG.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 222280437,
+      "sha": "3cc415d7ffd33d69cec0c92cf366000c4e2174e6",
+      "updatedAt": "2025-10-27T20:55:59.702Z"
+    },
+    {
+      "sheetName": "H_BND",
+      "path": "outputs/h/BND.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1709220839,
+      "sha": "77e9f7f7306be57c365b6ff6f9f46db6a6fb3ce7",
+      "updatedAt": "2025-10-27T20:56:01.939Z"
+    },
+    {
+      "sheetName": "TA_BND",
+      "path": "outputs/ta/BND.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1935607610,
+      "sha": "eb49a91956128530cc8894d13eb24d9f78e9be7f",
+      "updatedAt": "2025-10-27T20:56:05.004Z"
+    },
+    {
+      "sheetName": "H_CGL",
+      "path": "outputs/h/CGL.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1145782557,
+      "sha": "5b830d292efa40309425d22761111363225ef2dc",
+      "updatedAt": "2025-10-27T20:56:07.286Z"
+    },
+    {
+      "sheetName": "TA_CGL",
+      "path": "outputs/ta/CGL.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1277888432,
+      "sha": "2f4f16260f94f59c59194431ae0eae3c3b789c73",
+      "updatedAt": "2025-10-27T20:56:10.155Z"
+    },
+    {
+      "sheetName": "H_CGL.C",
+      "path": "outputs/h/CGL.C.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1340525819,
+      "sha": "60115659ddd1ea96f59ed1f389e8729a3502e0af",
+      "updatedAt": "2025-10-27T20:56:12.159Z"
+    },
+    {
+      "sheetName": "TA_CGL.C",
+      "path": "outputs/ta/CGL.C.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 2135793288,
+      "sha": "aca56f014ea47b81c13a93dd15fa9583db90b58c",
+      "updatedAt": "2025-10-27T20:56:14.978Z"
+    },
+    {
+      "sheetName": "H_DBC",
+      "path": "outputs/h/DBC.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1034193580,
+      "sha": "8bb696c63d5da56a3ffa180a034e3170b1166056",
+      "updatedAt": "2025-10-27T20:56:17.269Z"
+    },
+    {
+      "sheetName": "TA_DBC",
+      "path": "outputs/ta/DBC.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 20291356,
+      "sha": "124c5d45587a4efb4a75032fe2df58bcba260dc3",
+      "updatedAt": "2025-10-27T20:56:20.183Z"
+    },
+    {
+      "sheetName": "H_DIA",
+      "path": "outputs/h/DIA.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1923689630,
+      "sha": "f1e845b1e3484497d252b74a4f2a0e9b9bacdc90",
+      "updatedAt": "2025-10-27T20:56:22.916Z"
+    },
+    {
+      "sheetName": "TA_DIA",
+      "path": "outputs/ta/DIA.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1858019013,
+      "sha": "d3da9c4e9087eab447d167d4944969cfefe86727",
+      "updatedAt": "2025-10-27T20:56:25.739Z"
+    },
+    {
+      "sheetName": "H_EEM",
+      "path": "outputs/h/EEM.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1273800202,
+      "sha": "fcacc52424b081f460a7e56de55ab289fc471251",
+      "updatedAt": "2025-10-27T20:56:28.391Z"
+    },
+    {
+      "sheetName": "TA_EEM",
+      "path": "outputs/ta/EEM.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 811225784,
+      "sha": "47734c78f52ef9b24179c7d2945684178ee12570",
+      "updatedAt": "2025-10-27T20:56:31.635Z"
+    },
+    {
+      "sheetName": "H_EFA",
+      "path": "outputs/h/EFA.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 849254159,
+      "sha": "d0ae79d9015151eae6ffc3dbbda4bcc0dc9f7adb",
+      "updatedAt": "2025-10-27T20:56:34.428Z"
+    },
+    {
+      "sheetName": "TA_EFA",
+      "path": "outputs/ta/EFA.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 391020706,
+      "sha": "8dc545b5bef8c246b8c161dec755198b2002bb79",
+      "updatedAt": "2025-10-27T20:56:37.732Z"
+    },
+    {
+      "sheetName": "H_GLD",
+      "path": "outputs/h/GLD.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 6001529,
+      "sha": "c29a1a084ab341b497669204e9f7a8bfe249e6e2",
+      "updatedAt": "2025-10-27T20:56:40.102Z"
+    },
+    {
+      "sheetName": "TA_GLD",
+      "path": "outputs/ta/GLD.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1096137862,
+      "sha": "a5f32d58fb2770ca19178f8eaf91691bb7871150",
+      "updatedAt": "2025-10-27T20:56:43.477Z"
+    },
+    {
+      "sheetName": "H_HXQ",
+      "path": "outputs/h/HXQ.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 246191754,
+      "sha": "fe6767111626d23e7eb4d83c5546d46009311fc9",
+      "updatedAt": "2025-10-27T20:56:45.597Z"
+    },
+    {
+      "sheetName": "TA_HXQ",
+      "path": "outputs/ta/HXQ.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 887280080,
+      "sha": "e8e27162f0549e3d2356c281efe824bd3e3abf1d",
+      "updatedAt": "2025-10-27T20:56:48.811Z"
+    },
+    {
+      "sheetName": "H_HXT",
+      "path": "outputs/h/HXT.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1540859224,
+      "sha": "cfa82054047e35f6344dfb394b27de7bda0bfa47",
+      "updatedAt": "2025-10-27T20:56:51.732Z"
+    },
+    {
+      "sheetName": "TA_HXT",
+      "path": "outputs/ta/HXT.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 971191827,
+      "sha": "4a2608bbc6b15b2867928a0f0ed0772ced0f1a0a",
+      "updatedAt": "2025-10-27T20:56:55.187Z"
+    },
+    {
+      "sheetName": "H_HYG",
+      "path": "outputs/h/HYG.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1050546953,
+      "sha": "a1c48aed259b89bac537d3b183c7f82784cb510f",
+      "updatedAt": "2025-10-27T20:56:57.335Z"
+    },
+    {
+      "sheetName": "TA_HYG",
+      "path": "outputs/ta/HYG.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 797200302,
+      "sha": "454597b05f94a7925f0cd595f9614bc46a5933a8",
+      "updatedAt": "2025-10-27T20:57:00.587Z"
+    },
+    {
+      "sheetName": "H_IAU",
+      "path": "outputs/h/IAU.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 542113929,
+      "sha": "eaedbccf33ae9f3d5756e0c07a94dfaebb4a4517",
+      "updatedAt": "2025-10-27T20:57:03.130Z"
+    },
+    {
+      "sheetName": "TA_IAU",
+      "path": "outputs/ta/IAU.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 262112564,
+      "sha": "581e3b5a20bcda4f07b3a5b5de9a4e1866da124f",
+      "updatedAt": "2025-10-27T20:57:06.326Z"
+    },
+    {
+      "sheetName": "H_IEF",
+      "path": "outputs/h/IEF.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1519944340,
+      "sha": "c5d466d834de7e68ce30d0ba7f2fcd36cf734a4c",
+      "updatedAt": "2025-10-27T20:57:08.609Z"
+    },
+    {
+      "sheetName": "TA_IEF",
+      "path": "outputs/ta/IEF.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1402318927,
+      "sha": "e500d298b7bc8ba824348614c4245dded782e7a0",
+      "updatedAt": "2025-10-27T20:57:12.440Z"
+    },
+    {
+      "sheetName": "H_IEFA",
+      "path": "outputs/h/IEFA.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 639572203,
+      "sha": "872827a1f08160f54aef2b76a462bed8003a794e",
+      "updatedAt": "2025-10-27T20:57:14.723Z"
+    },
+    {
+      "sheetName": "TA_IEFA",
+      "path": "outputs/ta/IEFA.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1062951635,
+      "sha": "cdbf50391d1708ae5a3697f574499a58e7fdf42d",
+      "updatedAt": "2025-10-27T20:57:17.990Z"
+    },
+    {
+      "sheetName": "H_IEMG",
+      "path": "outputs/h/IEMG.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1837343938,
+      "sha": "4cb33c391376e5f200f62e624798b46561a6981a",
+      "updatedAt": "2025-10-27T20:57:20.462Z"
+    },
+    {
+      "sheetName": "TA_IEMG",
+      "path": "outputs/ta/IEMG.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 481133365,
+      "sha": "cfa30df7a347d14d744c7f3f78552be326c95594",
+      "updatedAt": "2025-10-27T20:57:24.154Z"
+    },
+    {
+      "sheetName": "H_IJH",
+      "path": "outputs/h/IJH.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1824368383,
+      "sha": "21935c90782f1f293c368ea3d0212c1d1c8abbf5",
+      "updatedAt": "2025-10-27T20:57:26.422Z"
+    },
+    {
+      "sheetName": "TA_IJH",
+      "path": "outputs/ta/IJH.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 43894645,
+      "sha": "c25aa0d1a7a5824fbfc150f3e693d7e2b9f74642",
+      "updatedAt": "2025-10-27T20:57:29.639Z"
+    },
+    {
+      "sheetName": "H_IJR",
+      "path": "outputs/h/IJR.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 760550159,
+      "sha": "281e9ecb8ca3687c2b755ed8d02c69986087e20d",
+      "updatedAt": "2025-10-27T20:57:31.775Z"
+    },
+    {
+      "sheetName": "TA_IJR",
+      "path": "outputs/ta/IJR.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1112348593,
+      "sha": "509c3df20cdb94a5327941d5df071a00f0da2bb3",
+      "updatedAt": "2025-10-27T20:57:35.193Z"
+    },
+    {
+      "sheetName": "H_ITOT",
+      "path": "outputs/h/ITOT.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 327853837,
+      "sha": "bbac303f89baa7ffeef127cef7baf24593f910b8",
+      "updatedAt": "2025-10-27T20:57:37.985Z"
+    },
+    {
+      "sheetName": "TA_ITOT",
+      "path": "outputs/ta/ITOT.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 265821727,
+      "sha": "d3ef6d6e58eac582f538bd7f5b0741c371e3d11d",
+      "updatedAt": "2025-10-27T20:57:42.032Z"
+    },
+    {
+      "sheetName": "H_IVV",
+      "path": "outputs/h/IVV.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 543077039,
+      "sha": "8b43c04c8bc0e9b2e7591d727273ee315e03d8b6",
+      "updatedAt": "2025-10-27T20:57:44.839Z"
+    },
+    {
+      "sheetName": "TA_IVV",
+      "path": "outputs/ta/IVV.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 263156146,
+      "sha": "ffe925c970ff875a217c9179569eb5c8037e482d",
+      "updatedAt": "2025-10-27T20:57:48.588Z"
+    },
+    {
+      "sheetName": "H_IWB",
+      "path": "outputs/h/IWB.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1073606595,
+      "sha": "0447b475dc6835625ceecfc60dcbb2fc10932bce",
+      "updatedAt": "2025-10-27T20:57:51.405Z"
+    },
+    {
+      "sheetName": "TA_IWB",
+      "path": "outputs/ta/IWB.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1699961654,
+      "sha": "55fd0e3b132f4c9c5a879998d4965757203468d1",
+      "updatedAt": "2025-10-27T20:57:55.165Z"
+    },
+    {
+      "sheetName": "H_IWD",
+      "path": "outputs/h/IWD.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 240972557,
+      "sha": "7f503198b96482f90566df5ea453eecde4e2fbb6",
+      "updatedAt": "2025-10-27T20:57:57.927Z"
+    },
+    {
+      "sheetName": "TA_IWD",
+      "path": "outputs/ta/IWD.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 2084320704,
+      "sha": "3f9902590968f1ddf1e83d12a10d09e7543f1f62",
+      "updatedAt": "2025-10-27T20:58:01.748Z"
+    },
+    {
+      "sheetName": "H_IWF",
+      "path": "outputs/h/IWF.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1140933779,
+      "sha": "88685156792a599687fb52bc5eb975884d18b44d",
+      "updatedAt": "2025-10-27T20:58:04.405Z"
+    },
+    {
+      "sheetName": "TA_IWF",
+      "path": "outputs/ta/IWF.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 605363524,
+      "sha": "538f191f645df63402736f0296f9916ded1825d6",
+      "updatedAt": "2025-10-27T20:58:08.062Z"
+    },
+    {
+      "sheetName": "H_IWM",
+      "path": "outputs/h/IWM.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1892642416,
+      "sha": "0762394eb3fc885402dc43519c1cc2a88343bb22",
+      "updatedAt": "2025-10-27T20:58:10.626Z"
+    },
+    {
+      "sheetName": "TA_IWM",
+      "path": "outputs/ta/IWM.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 993030448,
+      "sha": "f954a3c4a69910547da614e49cfaa9593cfb4c33",
+      "updatedAt": "2025-10-27T20:58:14.050Z"
+    },
+    {
+      "sheetName": "H_IWO",
+      "path": "outputs/h/IWO.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 406347902,
+      "sha": "525625a3e8abf1316ef375f277434bcb68bb2180",
+      "updatedAt": "2025-10-27T20:58:16.523Z"
+    },
+    {
+      "sheetName": "TA_IWO",
+      "path": "outputs/ta/IWO.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 340795468,
+      "sha": "1ea4b8c20ac3d4bf0b94f442806e6de77902ce12",
+      "updatedAt": "2025-10-27T20:58:19.867Z"
+    },
+    {
+      "sheetName": "H_IWP",
+      "path": "outputs/h/IWP.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1142942073,
+      "sha": "0d71cfd99ab9133154ff26ec2d8a8b91786dfc90",
+      "updatedAt": "2025-10-27T20:58:22.623Z"
+    },
+    {
+      "sheetName": "TA_IWP",
+      "path": "outputs/ta/IWP.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 2106782791,
+      "sha": "ae2f25fc81b4d1f1924854c2c980b3afff256aea",
+      "updatedAt": "2025-10-27T20:58:25.659Z"
+    },
+    {
+      "sheetName": "H_IWS",
+      "path": "outputs/h/IWS.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1797541314,
+      "sha": "9d0b4844f3fa2120adb28a462246ca554b74da26",
+      "updatedAt": "2025-10-27T20:58:28.727Z"
+    },
+    {
+      "sheetName": "TA_IWS",
+      "path": "outputs/ta/IWS.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 955973995,
+      "sha": "427db69944be1723d5bdd8bcf55d01a8bd590c7f",
+      "updatedAt": "2025-10-27T20:58:31.912Z"
+    },
+    {
+      "sheetName": "H_IYR",
+      "path": "outputs/h/IYR.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 409903059,
+      "sha": "960fcceea1f3e1a512a439edaea247ceb98b46bd",
+      "updatedAt": "2025-10-27T20:58:34.340Z"
+    },
+    {
+      "sheetName": "TA_IYR",
+      "path": "outputs/ta/IYR.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1002823211,
+      "sha": "a791c8bd8b93349e5a23849ec82f68c519b49b51",
+      "updatedAt": "2025-10-27T20:58:37.596Z"
+    },
+    {
+      "sheetName": "H_JNK",
+      "path": "outputs/h/JNK.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 742364734,
+      "sha": "4f2b44d11f903918b1533062886c0d664c777ef6",
+      "updatedAt": "2025-10-27T20:58:40.151Z"
+    },
+    {
+      "sheetName": "TA_JNK",
+      "path": "outputs/ta/JNK.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1021590713,
+      "sha": "b63df13130bc38aec13447caa1df20a3ed603671",
+      "updatedAt": "2025-10-27T20:58:43.788Z"
+    },
+    {
+      "sheetName": "H_LQD",
+      "path": "outputs/h/LQD.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 959514889,
+      "sha": "4f2138a7298a3929515e11f21b8b2db1127603e2",
+      "updatedAt": "2025-10-27T20:58:46.588Z"
+    },
+    {
+      "sheetName": "TA_LQD",
+      "path": "outputs/ta/LQD.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1141656855,
+      "sha": "4e7266f80ef5fc281712958e06f7fac0f10585e9",
+      "updatedAt": "2025-10-27T20:58:49.740Z"
+    },
+    {
+      "sheetName": "H_MTUM",
+      "path": "outputs/h/MTUM.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 885939076,
+      "sha": "024197411ec8819fd3dabddedd580c8d0fbe3bbe",
+      "updatedAt": "2025-10-27T20:58:52.086Z"
+    },
+    {
+      "sheetName": "TA_MTUM",
+      "path": "outputs/ta/MTUM.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 782402119,
+      "sha": "0fa98a01d225ec64d75226bcf151a243d2932e46",
+      "updatedAt": "2025-10-27T20:58:55.440Z"
+    },
+    {
+      "sheetName": "H_QQC-F",
+      "path": "outputs/h/QQC-F.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1382995285,
+      "sha": "29c795d1a58d83b85249aac69dcadb69c9955eb4",
+      "updatedAt": "2025-10-27T20:58:57.684Z"
+    },
+    {
+      "sheetName": "TA_QQC-F",
+      "path": "outputs/ta/QQC-F.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1043487144,
+      "sha": "d6feb3e815e934a2720be284d6655f7aba9c5c43",
+      "updatedAt": "2025-10-27T20:59:00.403Z"
+    },
+    {
+      "sheetName": "H_QQQ",
+      "path": "outputs/h/QQQ.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1286723710,
+      "sha": "fb927285d1d03b593915340f7240d0c14ddc581e",
+      "updatedAt": "2025-10-27T20:59:02.491Z"
+    },
+    {
+      "sheetName": "TA_QQQ",
+      "path": "outputs/ta/QQQ.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1462780773,
+      "sha": "e5cf38f72c27a08e9d41f61000745d208f7823e6",
+      "updatedAt": "2025-10-27T20:59:05.467Z"
+    },
+    {
+      "sheetName": "H_QQQM",
+      "path": "outputs/h/QQQM.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 439355577,
+      "sha": "6713a90c8a26b82367b2527364d257856bc2125d",
+      "updatedAt": "2025-10-27T20:59:08.127Z"
+    },
+    {
+      "sheetName": "TA_QQQM",
+      "path": "outputs/ta/QQQM.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 2095600191,
+      "sha": "92d5b378da3acd1da0941a6ae53330dc679d8c8c",
+      "updatedAt": "2025-10-27T20:59:11.819Z"
+    },
+    {
+      "sheetName": "H_QUAL",
+      "path": "outputs/h/QUAL.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1642079178,
+      "sha": "eabd10c81ffacbd7a156105579e67a5ef1e76cec",
+      "updatedAt": "2025-10-27T20:59:14.993Z"
+    },
+    {
+      "sheetName": "TA_QUAL",
+      "path": "outputs/ta/QUAL.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1230943920,
+      "sha": "2873482558cf27f64e5eb2c498eab4ad4c3707bb",
+      "updatedAt": "2025-10-27T20:59:18.549Z"
+    }
+  ]
+}
