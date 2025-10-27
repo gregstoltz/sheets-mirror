@@ -1,0 +1,1960 @@
+{
+  "workbookId": "1iClfgrC4QaJ7Wb00dPoeg6DANCc1VisSqds-yhXtL2M",
+  "workbookName": "ETF Universe v5",
+  "generatedAt": "2025-10-27T20:31:48.050Z",
+  "branch": "main",
+  "basePath": "outputs",
+  "final": true,
+  "files": [
+    {
+      "sheetName": "Settings",
+      "path": "outputs/core/Settings.csv",
+      "error": "PUT outputs/core/Settings.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:00:56.783Z"
+    },
+    {
+      "sheetName": "Prices",
+      "path": "outputs/core/Prices.csv",
+      "error": "PUT outputs/core/Prices.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:00:57.822Z"
+    },
+    {
+      "sheetName": "Routes",
+      "path": "outputs/core/Routes.csv",
+      "error": "PUT outputs/core/Routes.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:00:58.890Z"
+    },
+    {
+      "sheetName": "HEALTH",
+      "path": "outputs/core/HEALTH.csv",
+      "error": "PUT outputs/core/HEALTH.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:00.909Z"
+    },
+    {
+      "sheetName": "SCAN",
+      "path": "outputs/core/SCAN.csv",
+      "error": "PUT outputs/core/SCAN.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:01.897Z"
+    },
+    {
+      "sheetName": "Links",
+      "path": "outputs/core/Links.csv",
+      "error": "PUT outputs/core/Links.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:03.502Z"
+    },
+    {
+      "sheetName": "Logs",
+      "path": "outputs/core/Logs.csv",
+      "error": "PUT outputs/core/Logs.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:04.592Z"
+    },
+    {
+      "sheetName": "TA_^STOXX50E",
+      "path": "outputs/ta/%5ESTOXX50E.csv",
+      "error": "PUT outputs/ta/%5ESTOXX50E.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:06.700Z"
+    },
+    {
+      "sheetName": "TA_^VIX",
+      "path": "outputs/ta/%5EVIX.csv",
+      "error": "PUT outputs/ta/%5EVIX.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:08.710Z"
+    },
+    {
+      "sheetName": "H_ACWI",
+      "path": "outputs/h/ACWI.csv",
+      "error": "PUT outputs/h/ACWI.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:10.193Z"
+    },
+    {
+      "sheetName": "TA_ACWI",
+      "path": "outputs/ta/ACWI.csv",
+      "error": "PUT outputs/ta/ACWI.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:11.956Z"
+    },
+    {
+      "sheetName": "H_ACWX",
+      "path": "outputs/h/ACWX.csv",
+      "error": "PUT outputs/h/ACWX.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:14.146Z"
+    },
+    {
+      "sheetName": "TA_ACWX",
+      "path": "outputs/ta/ACWX.csv",
+      "error": "PUT outputs/ta/ACWX.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:15.905Z"
+    },
+    {
+      "sheetName": "H_AGG",
+      "path": "outputs/h/AGG.csv",
+      "error": "PUT outputs/h/AGG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:17.000Z"
+    },
+    {
+      "sheetName": "TA_AGG",
+      "path": "outputs/ta/AGG.csv",
+      "error": "PUT outputs/ta/AGG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:18.645Z"
+    },
+    {
+      "sheetName": "H_BND",
+      "path": "outputs/h/BND.csv",
+      "error": "PUT outputs/h/BND.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:19.657Z"
+    },
+    {
+      "sheetName": "TA_BND",
+      "path": "outputs/ta/BND.csv",
+      "error": "PUT outputs/ta/BND.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:21.322Z"
+    },
+    {
+      "sheetName": "H_CGL",
+      "path": "outputs/h/CGL.csv",
+      "error": "PUT outputs/h/CGL.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:22.430Z"
+    },
+    {
+      "sheetName": "TA_CGL",
+      "path": "outputs/ta/CGL.csv",
+      "error": "PUT outputs/ta/CGL.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:24.007Z"
+    },
+    {
+      "sheetName": "H_CGL.C",
+      "path": "outputs/h/CGL.C.csv",
+      "error": "PUT outputs/h/CGL.C.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:25.147Z"
+    },
+    {
+      "sheetName": "TA_CGL.C",
+      "path": "outputs/ta/CGL.C.csv",
+      "error": "PUT outputs/ta/CGL.C.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:26.804Z"
+    },
+    {
+      "sheetName": "H_DBC",
+      "path": "outputs/h/DBC.csv",
+      "error": "PUT outputs/h/DBC.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:27.889Z"
+    },
+    {
+      "sheetName": "TA_DBC",
+      "path": "outputs/ta/DBC.csv",
+      "error": "PUT outputs/ta/DBC.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:29.410Z"
+    },
+    {
+      "sheetName": "H_DIA",
+      "path": "outputs/h/DIA.csv",
+      "error": "PUT outputs/h/DIA.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:30.433Z"
+    },
+    {
+      "sheetName": "TA_DIA",
+      "path": "outputs/ta/DIA.csv",
+      "error": "PUT outputs/ta/DIA.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:31.895Z"
+    },
+    {
+      "sheetName": "H_EEM",
+      "path": "outputs/h/EEM.csv",
+      "error": "PUT outputs/h/EEM.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:34.068Z"
+    },
+    {
+      "sheetName": "TA_EEM",
+      "path": "outputs/ta/EEM.csv",
+      "error": "PUT outputs/ta/EEM.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:35.667Z"
+    },
+    {
+      "sheetName": "H_EFA",
+      "path": "outputs/h/EFA.csv",
+      "error": "PUT outputs/h/EFA.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:36.626Z"
+    },
+    {
+      "sheetName": "TA_EFA",
+      "path": "outputs/ta/EFA.csv",
+      "error": "PUT outputs/ta/EFA.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:38.245Z"
+    },
+    {
+      "sheetName": "H_GLD",
+      "path": "outputs/h/GLD.csv",
+      "error": "PUT outputs/h/GLD.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:39.256Z"
+    },
+    {
+      "sheetName": "TA_GLD",
+      "path": "outputs/ta/GLD.csv",
+      "error": "PUT outputs/ta/GLD.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:40.879Z"
+    },
+    {
+      "sheetName": "H_HXQ",
+      "path": "outputs/h/HXQ.csv",
+      "error": "PUT outputs/h/HXQ.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:41.831Z"
+    },
+    {
+      "sheetName": "TA_HXQ",
+      "path": "outputs/ta/HXQ.csv",
+      "error": "PUT outputs/ta/HXQ.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:43.370Z"
+    },
+    {
+      "sheetName": "H_HXT",
+      "path": "outputs/h/HXT.csv",
+      "error": "PUT outputs/h/HXT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:44.798Z"
+    },
+    {
+      "sheetName": "TA_HXT",
+      "path": "outputs/ta/HXT.csv",
+      "error": "PUT outputs/ta/HXT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:46.390Z"
+    },
+    {
+      "sheetName": "H_HYG",
+      "path": "outputs/h/HYG.csv",
+      "error": "PUT outputs/h/HYG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:47.489Z"
+    },
+    {
+      "sheetName": "TA_HYG",
+      "path": "outputs/ta/HYG.csv",
+      "error": "PUT outputs/ta/HYG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:49.174Z"
+    },
+    {
+      "sheetName": "H_IAU",
+      "path": "outputs/h/IAU.csv",
+      "error": "PUT outputs/h/IAU.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:50.312Z"
+    },
+    {
+      "sheetName": "TA_IAU",
+      "path": "outputs/ta/IAU.csv",
+      "error": "PUT outputs/ta/IAU.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:52.457Z"
+    },
+    {
+      "sheetName": "H_IEF",
+      "path": "outputs/h/IEF.csv",
+      "error": "PUT outputs/h/IEF.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:53.478Z"
+    },
+    {
+      "sheetName": "TA_IEF",
+      "path": "outputs/ta/IEF.csv",
+      "error": "PUT outputs/ta/IEF.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:56.548Z"
+    },
+    {
+      "sheetName": "H_IEFA",
+      "path": "outputs/h/IEFA.csv",
+      "error": "PUT outputs/h/IEFA.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:01:58.167Z"
+    },
+    {
+      "sheetName": "TA_IEFA",
+      "path": "outputs/ta/IEFA.csv",
+      "error": "PUT outputs/ta/IEFA.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:00.364Z"
+    },
+    {
+      "sheetName": "H_IEMG",
+      "path": "outputs/h/IEMG.csv",
+      "error": "PUT outputs/h/IEMG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:01.812Z"
+    },
+    {
+      "sheetName": "TA_IEMG",
+      "path": "outputs/ta/IEMG.csv",
+      "error": "PUT outputs/ta/IEMG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:03.533Z"
+    },
+    {
+      "sheetName": "H_IJH",
+      "path": "outputs/h/IJH.csv",
+      "error": "PUT outputs/h/IJH.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:05.228Z"
+    },
+    {
+      "sheetName": "TA_IJH",
+      "path": "outputs/ta/IJH.csv",
+      "error": "PUT outputs/ta/IJH.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:07.484Z"
+    },
+    {
+      "sheetName": "H_IJR",
+      "path": "outputs/h/IJR.csv",
+      "error": "PUT outputs/h/IJR.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:08.534Z"
+    },
+    {
+      "sheetName": "TA_IJR",
+      "path": "outputs/ta/IJR.csv",
+      "error": "PUT outputs/ta/IJR.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:10.133Z"
+    },
+    {
+      "sheetName": "H_ITOT",
+      "path": "outputs/h/ITOT.csv",
+      "error": "PUT outputs/h/ITOT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:11.095Z"
+    },
+    {
+      "sheetName": "TA_ITOT",
+      "path": "outputs/ta/ITOT.csv",
+      "error": "PUT outputs/ta/ITOT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:13.665Z"
+    },
+    {
+      "sheetName": "H_IVV",
+      "path": "outputs/h/IVV.csv",
+      "error": "PUT outputs/h/IVV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:14.564Z"
+    },
+    {
+      "sheetName": "TA_IVV",
+      "path": "outputs/ta/IVV.csv",
+      "error": "PUT outputs/ta/IVV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:16.091Z"
+    },
+    {
+      "sheetName": "H_IWB",
+      "path": "outputs/h/IWB.csv",
+      "error": "PUT outputs/h/IWB.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:17.052Z"
+    },
+    {
+      "sheetName": "TA_IWB",
+      "path": "outputs/ta/IWB.csv",
+      "error": "PUT outputs/ta/IWB.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:18.989Z"
+    },
+    {
+      "sheetName": "H_IWD",
+      "path": "outputs/h/IWD.csv",
+      "error": "PUT outputs/h/IWD.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:19.974Z"
+    },
+    {
+      "sheetName": "TA_IWD",
+      "path": "outputs/ta/IWD.csv",
+      "error": "PUT outputs/ta/IWD.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:21.478Z"
+    },
+    {
+      "sheetName": "H_IWF",
+      "path": "outputs/h/IWF.csv",
+      "error": "PUT outputs/h/IWF.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:22.443Z"
+    },
+    {
+      "sheetName": "TA_IWF",
+      "path": "outputs/ta/IWF.csv",
+      "error": "PUT outputs/ta/IWF.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:24.211Z"
+    },
+    {
+      "sheetName": "H_IWM",
+      "path": "outputs/h/IWM.csv",
+      "error": "PUT outputs/h/IWM.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:25.244Z"
+    },
+    {
+      "sheetName": "TA_IWM",
+      "path": "outputs/ta/IWM.csv",
+      "error": "PUT outputs/ta/IWM.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:27.003Z"
+    },
+    {
+      "sheetName": "H_IWO",
+      "path": "outputs/h/IWO.csv",
+      "error": "PUT outputs/h/IWO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:28.086Z"
+    },
+    {
+      "sheetName": "TA_IWO",
+      "path": "outputs/ta/IWO.csv",
+      "error": "PUT outputs/ta/IWO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:29.712Z"
+    },
+    {
+      "sheetName": "H_IWP",
+      "path": "outputs/h/IWP.csv",
+      "error": "PUT outputs/h/IWP.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:30.642Z"
+    },
+    {
+      "sheetName": "TA_IWP",
+      "path": "outputs/ta/IWP.csv",
+      "error": "PUT outputs/ta/IWP.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:32.186Z"
+    },
+    {
+      "sheetName": "H_IWS",
+      "path": "outputs/h/IWS.csv",
+      "error": "PUT outputs/h/IWS.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:33.166Z"
+    },
+    {
+      "sheetName": "TA_IWS",
+      "path": "outputs/ta/IWS.csv",
+      "error": "PUT outputs/ta/IWS.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:34.678Z"
+    },
+    {
+      "sheetName": "H_IYR",
+      "path": "outputs/h/IYR.csv",
+      "error": "PUT outputs/h/IYR.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:35.746Z"
+    },
+    {
+      "sheetName": "TA_IYR",
+      "path": "outputs/ta/IYR.csv",
+      "error": "PUT outputs/ta/IYR.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:37.643Z"
+    },
+    {
+      "sheetName": "H_JNK",
+      "path": "outputs/h/JNK.csv",
+      "error": "PUT outputs/h/JNK.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:38.771Z"
+    },
+    {
+      "sheetName": "TA_JNK",
+      "path": "outputs/ta/JNK.csv",
+      "error": "PUT outputs/ta/JNK.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:40.286Z"
+    },
+    {
+      "sheetName": "H_LQD",
+      "path": "outputs/h/LQD.csv",
+      "error": "PUT outputs/h/LQD.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:41.160Z"
+    },
+    {
+      "sheetName": "TA_LQD",
+      "path": "outputs/ta/LQD.csv",
+      "error": "PUT outputs/ta/LQD.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:43.387Z"
+    },
+    {
+      "sheetName": "H_MTUM",
+      "path": "outputs/h/MTUM.csv",
+      "error": "PUT outputs/h/MTUM.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:44.413Z"
+    },
+    {
+      "sheetName": "TA_MTUM",
+      "path": "outputs/ta/MTUM.csv",
+      "error": "PUT outputs/ta/MTUM.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:46.082Z"
+    },
+    {
+      "sheetName": "H_QQC-F",
+      "path": "outputs/h/QQC-F.csv",
+      "error": "PUT outputs/h/QQC-F.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:47.187Z"
+    },
+    {
+      "sheetName": "TA_QQC-F",
+      "path": "outputs/ta/QQC-F.csv",
+      "error": "PUT outputs/ta/QQC-F.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:49.206Z"
+    },
+    {
+      "sheetName": "H_QQQ",
+      "path": "outputs/h/QQQ.csv",
+      "error": "PUT outputs/h/QQQ.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:50.259Z"
+    },
+    {
+      "sheetName": "TA_QQQ",
+      "path": "outputs/ta/QQQ.csv",
+      "error": "PUT outputs/ta/QQQ.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:52.060Z"
+    },
+    {
+      "sheetName": "H_QQQM",
+      "path": "outputs/h/QQQM.csv",
+      "error": "PUT outputs/h/QQQM.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:53.052Z"
+    },
+    {
+      "sheetName": "TA_QQQM",
+      "path": "outputs/ta/QQQM.csv",
+      "error": "PUT outputs/ta/QQQM.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:54.485Z"
+    },
+    {
+      "sheetName": "H_QUAL",
+      "path": "outputs/h/QUAL.csv",
+      "error": "PUT outputs/h/QUAL.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:55.503Z"
+    },
+    {
+      "sheetName": "TA_QUAL",
+      "path": "outputs/ta/QUAL.csv",
+      "error": "PUT outputs/ta/QUAL.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:57.007Z"
+    },
+    {
+      "sheetName": "H_SCHB",
+      "path": "outputs/h/SCHB.csv",
+      "error": "PUT outputs/h/SCHB.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:57.797Z"
+    },
+    {
+      "sheetName": "TA_SCHB",
+      "path": "outputs/ta/SCHB.csv",
+      "error": "PUT outputs/ta/SCHB.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:02:59.424Z"
+    },
+    {
+      "sheetName": "H_SHY",
+      "path": "outputs/h/SHY.csv",
+      "error": "PUT outputs/h/SHY.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:00.413Z"
+    },
+    {
+      "sheetName": "TA_SHY",
+      "path": "outputs/ta/SHY.csv",
+      "error": "PUT outputs/ta/SHY.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:01.806Z"
+    },
+    {
+      "sheetName": "H_SIZE",
+      "path": "outputs/h/SIZE.csv",
+      "error": "PUT outputs/h/SIZE.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:02.767Z"
+    },
+    {
+      "sheetName": "TA_SIZE",
+      "path": "outputs/ta/SIZE.csv",
+      "error": "PUT outputs/ta/SIZE.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:04.196Z"
+    },
+    {
+      "sheetName": "H_SLV",
+      "path": "outputs/h/SLV.csv",
+      "error": "PUT outputs/h/SLV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:05.189Z"
+    },
+    {
+      "sheetName": "TA_SLV",
+      "path": "outputs/ta/SLV.csv",
+      "error": "PUT outputs/ta/SLV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:06.846Z"
+    },
+    {
+      "sheetName": "H_SMH",
+      "path": "outputs/h/SMH.csv",
+      "error": "PUT outputs/h/SMH.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:07.834Z"
+    },
+    {
+      "sheetName": "TA_SMH",
+      "path": "outputs/ta/SMH.csv",
+      "error": "PUT outputs/ta/SMH.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:09.363Z"
+    },
+    {
+      "sheetName": "H_SOXX",
+      "path": "outputs/h/SOXX.csv",
+      "error": "PUT outputs/h/SOXX.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:10.403Z"
+    },
+    {
+      "sheetName": "TA_SOXX",
+      "path": "outputs/ta/SOXX.csv",
+      "error": "PUT outputs/ta/SOXX.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:11.890Z"
+    },
+    {
+      "sheetName": "H_SPY",
+      "path": "outputs/h/SPY.csv",
+      "error": "PUT outputs/h/SPY.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:13.263Z"
+    },
+    {
+      "sheetName": "TA_SPY",
+      "path": "outputs/ta/SPY.csv",
+      "error": "PUT outputs/ta/SPY.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:14.834Z"
+    },
+    {
+      "sheetName": "H_TIP",
+      "path": "outputs/h/TIP.csv",
+      "error": "PUT outputs/h/TIP.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:16.085Z"
+    },
+    {
+      "sheetName": "TA_TIP",
+      "path": "outputs/ta/TIP.csv",
+      "error": "PUT outputs/ta/TIP.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:18.046Z"
+    },
+    {
+      "sheetName": "H_TLT",
+      "path": "outputs/h/TLT.csv",
+      "error": "PUT outputs/h/TLT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:19.780Z"
+    },
+    {
+      "sheetName": "TA_TLT",
+      "path": "outputs/ta/TLT.csv",
+      "error": "PUT outputs/ta/TLT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:22.202Z"
+    },
+    {
+      "sheetName": "H_UNG",
+      "path": "outputs/h/UNG.csv",
+      "error": "PUT outputs/h/UNG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:23.620Z"
+    },
+    {
+      "sheetName": "TA_UNG",
+      "path": "outputs/ta/UNG.csv",
+      "error": "PUT outputs/ta/UNG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:25.452Z"
+    },
+    {
+      "sheetName": "H_USMV",
+      "path": "outputs/h/USMV.csv",
+      "error": "PUT outputs/h/USMV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:27.001Z"
+    },
+    {
+      "sheetName": "TA_USMV",
+      "path": "outputs/ta/USMV.csv",
+      "error": "PUT outputs/ta/USMV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:28.419Z"
+    },
+    {
+      "sheetName": "H_USO",
+      "path": "outputs/h/USO.csv",
+      "error": "PUT outputs/h/USO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:29.482Z"
+    },
+    {
+      "sheetName": "TA_USO",
+      "path": "outputs/ta/USO.csv",
+      "error": "PUT outputs/ta/USO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:31.161Z"
+    },
+    {
+      "sheetName": "H_VAB",
+      "path": "outputs/h/VAB.csv",
+      "error": "PUT outputs/h/VAB.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:33.220Z"
+    },
+    {
+      "sheetName": "TA_VAB",
+      "path": "outputs/ta/VAB.csv",
+      "error": "PUT outputs/ta/VAB.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:34.641Z"
+    },
+    {
+      "sheetName": "H_VBAL",
+      "path": "outputs/h/VBAL.csv",
+      "error": "PUT outputs/h/VBAL.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:37.074Z"
+    },
+    {
+      "sheetName": "TA_VBAL",
+      "path": "outputs/ta/VBAL.csv",
+      "error": "PUT outputs/ta/VBAL.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:39.097Z"
+    },
+    {
+      "sheetName": "H_VCE",
+      "path": "outputs/h/VCE.csv",
+      "error": "PUT outputs/h/VCE.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:40.446Z"
+    },
+    {
+      "sheetName": "TA_VCE",
+      "path": "outputs/ta/VCE.csv",
+      "error": "PUT outputs/ta/VCE.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:42.516Z"
+    },
+    {
+      "sheetName": "H_VCN",
+      "path": "outputs/h/VCN.csv",
+      "error": "PUT outputs/h/VCN.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:43.508Z"
+    },
+    {
+      "sheetName": "TA_VCN",
+      "path": "outputs/ta/VCN.csv",
+      "error": "PUT outputs/ta/VCN.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:45.490Z"
+    },
+    {
+      "sheetName": "H_VDY",
+      "path": "outputs/h/VDY.csv",
+      "error": "PUT outputs/h/VDY.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:46.443Z"
+    },
+    {
+      "sheetName": "TA_VDY",
+      "path": "outputs/ta/VDY.csv",
+      "error": "PUT outputs/ta/VDY.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:47.991Z"
+    },
+    {
+      "sheetName": "H_VEA",
+      "path": "outputs/h/VEA.csv",
+      "error": "PUT outputs/h/VEA.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:49.476Z"
+    },
+    {
+      "sheetName": "TA_VEA",
+      "path": "outputs/ta/VEA.csv",
+      "error": "PUT outputs/ta/VEA.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:51.303Z"
+    },
+    {
+      "sheetName": "H_VEE",
+      "path": "outputs/h/VEE.csv",
+      "error": "PUT outputs/h/VEE.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:52.308Z"
+    },
+    {
+      "sheetName": "TA_VEE",
+      "path": "outputs/ta/VEE.csv",
+      "error": "PUT outputs/ta/VEE.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:53.829Z"
+    },
+    {
+      "sheetName": "H_VEQT",
+      "path": "outputs/h/VEQT.csv",
+      "error": "PUT outputs/h/VEQT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:54.723Z"
+    },
+    {
+      "sheetName": "TA_VEQT",
+      "path": "outputs/ta/VEQT.csv",
+      "error": "PUT outputs/ta/VEQT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:56.260Z"
+    },
+    {
+      "sheetName": "H_VFV",
+      "path": "outputs/h/VFV.csv",
+      "error": "PUT outputs/h/VFV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:57.304Z"
+    },
+    {
+      "sheetName": "TA_VFV",
+      "path": "outputs/ta/VFV.csv",
+      "error": "PUT outputs/ta/VFV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:58.797Z"
+    },
+    {
+      "sheetName": "H_VGRO",
+      "path": "outputs/h/VGRO.csv",
+      "error": "PUT outputs/h/VGRO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:03:59.987Z"
+    },
+    {
+      "sheetName": "TA_VGRO",
+      "path": "outputs/ta/VGRO.csv",
+      "error": "PUT outputs/ta/VGRO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:01.335Z"
+    },
+    {
+      "sheetName": "H_VIU",
+      "path": "outputs/h/VIU.csv",
+      "error": "PUT outputs/h/VIU.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:02.415Z"
+    },
+    {
+      "sheetName": "TA_VIU",
+      "path": "outputs/ta/VIU.csv",
+      "error": "PUT outputs/ta/VIU.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:03.829Z"
+    },
+    {
+      "sheetName": "H_VLUE",
+      "path": "outputs/h/VLUE.csv",
+      "error": "PUT outputs/h/VLUE.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:04.938Z"
+    },
+    {
+      "sheetName": "TA_VLUE",
+      "path": "outputs/ta/VLUE.csv",
+      "error": "PUT outputs/ta/VLUE.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:06.395Z"
+    },
+    {
+      "sheetName": "H_VNQ",
+      "path": "outputs/h/VNQ.csv",
+      "error": "PUT outputs/h/VNQ.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:07.437Z"
+    },
+    {
+      "sheetName": "TA_VNQ",
+      "path": "outputs/ta/VNQ.csv",
+      "error": "PUT outputs/ta/VNQ.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:09.027Z"
+    },
+    {
+      "sheetName": "H_VOO",
+      "path": "outputs/h/VOO.csv",
+      "error": "PUT outputs/h/VOO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:10.022Z"
+    },
+    {
+      "sheetName": "TA_VOO",
+      "path": "outputs/ta/VOO.csv",
+      "error": "PUT outputs/ta/VOO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:11.532Z"
+    },
+    {
+      "sheetName": "H_VTI",
+      "path": "outputs/h/VTI.csv",
+      "error": "PUT outputs/h/VTI.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:12.607Z"
+    },
+    {
+      "sheetName": "TA_VTI",
+      "path": "outputs/ta/VTI.csv",
+      "error": "PUT outputs/ta/VTI.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:14.104Z"
+    },
+    {
+      "sheetName": "H_VTV",
+      "path": "outputs/h/VTV.csv",
+      "error": "PUT outputs/h/VTV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:15.062Z"
+    },
+    {
+      "sheetName": "TA_VTV",
+      "path": "outputs/ta/VTV.csv",
+      "error": "PUT outputs/ta/VTV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:16.613Z"
+    },
+    {
+      "sheetName": "H_VUG",
+      "path": "outputs/h/VUG.csv",
+      "error": "PUT outputs/h/VUG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:17.554Z"
+    },
+    {
+      "sheetName": "TA_VUG",
+      "path": "outputs/ta/VUG.csv",
+      "error": "PUT outputs/ta/VUG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:19.318Z"
+    },
+    {
+      "sheetName": "H_VUN",
+      "path": "outputs/h/VUN.csv",
+      "error": "PUT outputs/h/VUN.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:21.976Z"
+    },
+    {
+      "sheetName": "TA_VUN",
+      "path": "outputs/ta/VUN.csv",
+      "error": "PUT outputs/ta/VUN.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:23.534Z"
+    },
+    {
+      "sheetName": "H_VWO",
+      "path": "outputs/h/VWO.csv",
+      "error": "PUT outputs/h/VWO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:24.423Z"
+    },
+    {
+      "sheetName": "TA_VWO",
+      "path": "outputs/ta/VWO.csv",
+      "error": "PUT outputs/ta/VWO.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:25.802Z"
+    },
+    {
+      "sheetName": "H_VXC",
+      "path": "outputs/h/VXC.csv",
+      "error": "PUT outputs/h/VXC.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:27.007Z"
+    },
+    {
+      "sheetName": "TA_VXC",
+      "path": "outputs/ta/VXC.csv",
+      "error": "PUT outputs/ta/VXC.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:28.722Z"
+    },
+    {
+      "sheetName": "H_XAW",
+      "path": "outputs/h/XAW.csv",
+      "error": "PUT outputs/h/XAW.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:29.680Z"
+    },
+    {
+      "sheetName": "TA_XAW",
+      "path": "outputs/ta/XAW.csv",
+      "error": "PUT outputs/ta/XAW.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:31.097Z"
+    },
+    {
+      "sheetName": "H_XBAL",
+      "path": "outputs/h/XBAL.csv",
+      "error": "PUT outputs/h/XBAL.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:32.048Z"
+    },
+    {
+      "sheetName": "TA_XBAL",
+      "path": "outputs/ta/XBAL.csv",
+      "error": "PUT outputs/ta/XBAL.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:33.590Z"
+    },
+    {
+      "sheetName": "H_XBB",
+      "path": "outputs/h/XBB.csv",
+      "error": "PUT outputs/h/XBB.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:34.472Z"
+    },
+    {
+      "sheetName": "TA_XBB",
+      "path": "outputs/ta/XBB.csv",
+      "error": "PUT outputs/ta/XBB.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:36.000Z"
+    },
+    {
+      "sheetName": "H_XBI",
+      "path": "outputs/h/XBI.csv",
+      "error": "PUT outputs/h/XBI.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:37.217Z"
+    },
+    {
+      "sheetName": "TA_XBI",
+      "path": "outputs/ta/XBI.csv",
+      "error": "PUT outputs/ta/XBI.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:38.740Z"
+    },
+    {
+      "sheetName": "H_XDV",
+      "path": "outputs/h/XDV.csv",
+      "error": "PUT outputs/h/XDV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:39.660Z"
+    },
+    {
+      "sheetName": "TA_XDV",
+      "path": "outputs/ta/XDV.csv",
+      "error": "PUT outputs/ta/XDV.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:41.015Z"
+    },
+    {
+      "sheetName": "H_XEC",
+      "path": "outputs/h/XEC.csv",
+      "error": "PUT outputs/h/XEC.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:42.003Z"
+    },
+    {
+      "sheetName": "TA_XEC",
+      "path": "outputs/ta/XEC.csv",
+      "error": "PUT outputs/ta/XEC.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:43.514Z"
+    },
+    {
+      "sheetName": "H_XEF",
+      "path": "outputs/h/XEF.csv",
+      "error": "PUT outputs/h/XEF.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:44.395Z"
+    },
+    {
+      "sheetName": "TA_XEF",
+      "path": "outputs/ta/XEF.csv",
+      "error": "PUT outputs/ta/XEF.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:45.897Z"
+    },
+    {
+      "sheetName": "H_XEG",
+      "path": "outputs/h/XEG.csv",
+      "error": "PUT outputs/h/XEG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:46.875Z"
+    },
+    {
+      "sheetName": "TA_XEG",
+      "path": "outputs/ta/XEG.csv",
+      "error": "PUT outputs/ta/XEG.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:48.338Z"
+    },
+    {
+      "sheetName": "H_XEI",
+      "path": "outputs/h/XEI.csv",
+      "error": "PUT outputs/h/XEI.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:49.269Z"
+    },
+    {
+      "sheetName": "TA_XEI",
+      "path": "outputs/ta/XEI.csv",
+      "error": "PUT outputs/ta/XEI.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:50.717Z"
+    },
+    {
+      "sheetName": "H_XEQT",
+      "path": "outputs/h/XEQT.csv",
+      "error": "PUT outputs/h/XEQT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:51.685Z"
+    },
+    {
+      "sheetName": "TA_XEQT",
+      "path": "outputs/ta/XEQT.csv",
+      "error": "PUT outputs/ta/XEQT.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:53.099Z"
+    },
+    {
+      "sheetName": "H_XFN",
+      "path": "outputs/h/XFN.csv",
+      "error": "PUT outputs/h/XFN.csv failed (404): {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"404\"}",
+      "updatedAt": "2025-10-27T19:04:53.990Z"
+    },
+    {
+      "sheetName": "TA_XFN",
+      "path": "outputs/ta/XFN.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1782464101,
+      "sha": "a104eda2a9af4e01f37f4314a113b0b91ee54214",
+      "updatedAt": "2025-10-27T20:26:26.191Z"
+    },
+    {
+      "sheetName": "H_XGB",
+      "path": "outputs/h/XGB.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 161495085,
+      "sha": "a6c50f392696707fc34efd3d29d81cc0e8f5ee9d",
+      "updatedAt": "2025-10-27T20:26:28.776Z"
+    },
+    {
+      "sheetName": "TA_XGB",
+      "path": "outputs/ta/XGB.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 871336642,
+      "sha": "d4bdf08fb5c31f8aacd651a4f2108413f5be26ca",
+      "updatedAt": "2025-10-27T20:26:32.100Z"
+    },
+    {
+      "sheetName": "H_XGRO",
+      "path": "outputs/h/XGRO.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 482137396,
+      "sha": "2b199c9378eba1770d6c17d1b1163c0bed91eea2",
+      "updatedAt": "2025-10-27T20:26:34.621Z"
+    },
+    {
+      "sheetName": "TA_XGRO",
+      "path": "outputs/ta/XGRO.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1856486708,
+      "sha": "bbcb5ccb61425d6508ab7155d49e20b04dde75ee",
+      "updatedAt": "2025-10-27T20:26:38.013Z"
+    },
+    {
+      "sheetName": "H_XIC",
+      "path": "outputs/h/XIC.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1868552299,
+      "sha": "b0f52f5735664cf6a27753631db15f8a202fc3dd",
+      "updatedAt": "2025-10-27T20:26:40.340Z"
+    },
+    {
+      "sheetName": "TA_XIC",
+      "path": "outputs/ta/XIC.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 2023585202,
+      "sha": "e3e99f3382fd9ffa7806738f144f0ead8bb134cc",
+      "updatedAt": "2025-10-27T20:26:42.980Z"
+    },
+    {
+      "sheetName": "H_XIT",
+      "path": "outputs/h/XIT.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1218002365,
+      "sha": "d0f0772b2ad4605b21ca8503f99b447ddb85a57a",
+      "updatedAt": "2025-10-27T20:26:45.023Z"
+    },
+    {
+      "sheetName": "TA_XIT",
+      "path": "outputs/ta/XIT.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 987609004,
+      "sha": "aad8ff35cc57a59850d59d4f7ac3f71ce02bc370",
+      "updatedAt": "2025-10-27T20:26:47.893Z"
+    },
+    {
+      "sheetName": "H_XIU",
+      "path": "outputs/h/XIU.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1860564562,
+      "sha": "2b68392a26aac7b8b96925329c4c435bfb9d008c",
+      "updatedAt": "2025-10-27T20:26:50.142Z"
+    },
+    {
+      "sheetName": "TA_XIU",
+      "path": "outputs/ta/XIU.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 582437506,
+      "sha": "8a77158035090fe310161a47ad68180872efe3c7",
+      "updatedAt": "2025-10-27T20:26:53.755Z"
+    },
+    {
+      "sheetName": "H_XLB",
+      "path": "outputs/h/XLB.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1899647508,
+      "sha": "157f174cb98d5f06fc847e0f72437ec39159dcf5",
+      "updatedAt": "2025-10-27T20:26:55.823Z"
+    },
+    {
+      "sheetName": "TA_XLB",
+      "path": "outputs/ta/XLB.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 25633789,
+      "sha": "627457a6f5688f5de8f2d15fddbf7e114ac9d17e",
+      "updatedAt": "2025-10-27T20:26:58.890Z"
+    },
+    {
+      "sheetName": "H_XLC",
+      "path": "outputs/h/XLC.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1436423205,
+      "sha": "2dc8c4817389a0220019fbf53306adb046f75278",
+      "updatedAt": "2025-10-27T20:27:01.376Z"
+    },
+    {
+      "sheetName": "TA_XLC",
+      "path": "outputs/ta/XLC.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 495324869,
+      "sha": "5bade62400eb765179c6f87c96c0a38f4ff51102",
+      "updatedAt": "2025-10-27T20:27:04.387Z"
+    },
+    {
+      "sheetName": "H_XLE",
+      "path": "outputs/h/XLE.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 855250579,
+      "sha": "d884ce8f625309088d39cb18042bf97aafb60550",
+      "updatedAt": "2025-10-27T20:27:06.838Z"
+    },
+    {
+      "sheetName": "TA_XLE",
+      "path": "outputs/ta/XLE.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1712235976,
+      "sha": "ea64394c6ec5720fdcb488826f8f902b3fc9c1d5",
+      "updatedAt": "2025-10-27T20:27:10.121Z"
+    },
+    {
+      "sheetName": "H_XLF",
+      "path": "outputs/h/XLF.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1615402573,
+      "sha": "7c3260311eefab2514dd75fd668e58bb5842541b",
+      "updatedAt": "2025-10-27T20:27:13.080Z"
+    },
+    {
+      "sheetName": "TA_XLF",
+      "path": "outputs/ta/XLF.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 477254274,
+      "sha": "355cc5de9fb5eba7475920a67495b77f8e0a4504",
+      "updatedAt": "2025-10-27T20:27:16.552Z"
+    },
+    {
+      "sheetName": "H_XLI",
+      "path": "outputs/h/XLI.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 862224954,
+      "sha": "e996915f7277f659ff4d630060c8a1eb8870c8db",
+      "updatedAt": "2025-10-27T20:27:18.944Z"
+    },
+    {
+      "sheetName": "TA_XLI",
+      "path": "outputs/ta/XLI.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 796457618,
+      "sha": "05c5190c3160b867225ad001a9050cda2c3f8a0d",
+      "updatedAt": "2025-10-27T20:27:21.878Z"
+    },
+    {
+      "sheetName": "H_XLK",
+      "path": "outputs/h/XLK.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 467093436,
+      "sha": "71a5e2f7ba7ffbc632876d676e3bba0127dc2271",
+      "updatedAt": "2025-10-27T20:27:24.131Z"
+    },
+    {
+      "sheetName": "TA_XLK",
+      "path": "outputs/ta/XLK.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1590828571,
+      "sha": "12a3002801b0ae4f59c12c04fb21c73ca5029b26",
+      "updatedAt": "2025-10-27T20:27:27.192Z"
+    },
+    {
+      "sheetName": "H_XLP",
+      "path": "outputs/h/XLP.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 862588411,
+      "sha": "399db48cd74e882d043f307c79a70460d28e8015",
+      "updatedAt": "2025-10-27T20:27:29.692Z"
+    },
+    {
+      "sheetName": "TA_XLP",
+      "path": "outputs/ta/XLP.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1541946038,
+      "sha": "22436efe40be109399abfa31f96473fd7f935335",
+      "updatedAt": "2025-10-27T20:27:32.796Z"
+    },
+    {
+      "sheetName": "H_XLRE",
+      "path": "outputs/h/XLRE.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1832194877,
+      "sha": "58eb210ba1c60becb4e3f22fca02a2e38a1656aa",
+      "updatedAt": "2025-10-27T20:27:36.144Z"
+    },
+    {
+      "sheetName": "TA_XLRE",
+      "path": "outputs/ta/XLRE.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 816296659,
+      "sha": "f863d43b71224a54277652fbf97af5ccc43faef8",
+      "updatedAt": "2025-10-27T20:27:39.076Z"
+    },
+    {
+      "sheetName": "H_XLU",
+      "path": "outputs/h/XLU.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 717687947,
+      "sha": "fdc15d1bf508a7fb23432119a66816611fd6e42c",
+      "updatedAt": "2025-10-27T20:27:41.594Z"
+    },
+    {
+      "sheetName": "TA_XLU",
+      "path": "outputs/ta/XLU.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 193537780,
+      "sha": "9299b729500c7052bc6d53bb4c1417126429cbd4",
+      "updatedAt": "2025-10-27T20:27:44.633Z"
+    },
+    {
+      "sheetName": "H_XLV",
+      "path": "outputs/h/XLV.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 812873156,
+      "sha": "957d4e8578103d09f6e3a0d2fbd2a2a585fcfd35",
+      "updatedAt": "2025-10-27T20:27:46.932Z"
+    },
+    {
+      "sheetName": "TA_XLV",
+      "path": "outputs/ta/XLV.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 615673245,
+      "sha": "ee611dc7018fc6adfc67dd5ae59caac54bb7ca88",
+      "updatedAt": "2025-10-27T20:27:49.973Z"
+    },
+    {
+      "sheetName": "H_XLY",
+      "path": "outputs/h/XLY.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 444636055,
+      "sha": "865a40ca846a48f1abd1e1b052f99b3deed3614a",
+      "updatedAt": "2025-10-27T20:27:52.195Z"
+    },
+    {
+      "sheetName": "TA_XLY",
+      "path": "outputs/ta/XLY.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 296252027,
+      "sha": "65c4fd4b436d67aab00f6fa0f0618c1fc83f2370",
+      "updatedAt": "2025-10-27T20:27:55.535Z"
+    },
+    {
+      "sheetName": "H_XME",
+      "path": "outputs/h/XME.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1340967085,
+      "sha": "e4c153a93e069624df125f764fdd81375c00b41c",
+      "updatedAt": "2025-10-27T20:27:57.975Z"
+    },
+    {
+      "sheetName": "TA_XME",
+      "path": "outputs/ta/XME.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 105376936,
+      "sha": "22dc0283d5ee45d915a6eab07dc6e6d09d224a83",
+      "updatedAt": "2025-10-27T20:28:00.906Z"
+    },
+    {
+      "sheetName": "H_XQQ",
+      "path": "outputs/h/XQQ.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 755514274,
+      "sha": "58e96c3fba58cc7a443911d8fe3f711354493908",
+      "updatedAt": "2025-10-27T20:28:03.417Z"
+    },
+    {
+      "sheetName": "TA_XQQ",
+      "path": "outputs/ta/XQQ.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1863394989,
+      "sha": "c79022be355e39ef974b0b480fa030abfceba369",
+      "updatedAt": "2025-10-27T20:28:06.777Z"
+    },
+    {
+      "sheetName": "H_XRB",
+      "path": "outputs/h/XRB.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1937260279,
+      "sha": "9a64a44c44a0e0fc8c9e3749e3dce93cdeabb011",
+      "updatedAt": "2025-10-27T20:28:09.349Z"
+    },
+    {
+      "sheetName": "TA_XRB",
+      "path": "outputs/ta/XRB.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 618563458,
+      "sha": "77769d3f771b2f571afb9592643ad4284051cf69",
+      "updatedAt": "2025-10-27T20:28:13.760Z"
+    },
+    {
+      "sheetName": "H_XRE",
+      "path": "outputs/h/XRE.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 346636369,
+      "sha": "0625a4ed67d57cb4d2e98129630c50e50a52c570",
+      "updatedAt": "2025-10-27T20:28:16.210Z"
+    },
+    {
+      "sheetName": "TA_XRE",
+      "path": "outputs/ta/XRE.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 147671787,
+      "sha": "fb3a2af9b0b701081cb5d3a3bde66e723bb5b138",
+      "updatedAt": "2025-10-27T20:28:19.243Z"
+    },
+    {
+      "sheetName": "H_XSB",
+      "path": "outputs/h/XSB.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 600245783,
+      "sha": "4beb2e2d1e9e656043d44a84cc84a3994d9a5a60",
+      "updatedAt": "2025-10-27T20:28:22.692Z"
+    },
+    {
+      "sheetName": "TA_XSB",
+      "path": "outputs/ta/XSB.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 809245402,
+      "sha": "6600c78622e0e34441b394931cdf8ad23393d948",
+      "updatedAt": "2025-10-27T20:28:30.613Z"
+    },
+    {
+      "sheetName": "H_XSH",
+      "path": "outputs/h/XSH.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 419241368,
+      "sha": "64d0ba5f606b323163946fdb2eb0abb4ce2df430",
+      "updatedAt": "2025-10-27T20:28:34.440Z"
+    },
+    {
+      "sheetName": "TA_XSH",
+      "path": "outputs/ta/XSH.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1202550335,
+      "sha": "32e7bb81f185f48ec30f57649a4813c278fb3ac3",
+      "updatedAt": "2025-10-27T20:28:38.278Z"
+    },
+    {
+      "sheetName": "H_XUS",
+      "path": "outputs/h/XUS.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 892063102,
+      "sha": "979ef916bbdda6423934f52aa03a167fe9d2c322",
+      "updatedAt": "2025-10-27T20:28:40.645Z"
+    },
+    {
+      "sheetName": "TA_XUS",
+      "path": "outputs/ta/XUS.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1041416002,
+      "sha": "b3288fe4f9180cb3d104a39a3e34bf1dec0c2c7e",
+      "updatedAt": "2025-10-27T20:28:44.662Z"
+    },
+    {
+      "sheetName": "H_XUU",
+      "path": "outputs/h/XUU.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 473336820,
+      "sha": "f1f79cc593faafce060df4e252790910f5816042",
+      "updatedAt": "2025-10-27T20:28:46.987Z"
+    },
+    {
+      "sheetName": "TA_XUU",
+      "path": "outputs/ta/XUU.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1265335921,
+      "sha": "36d1e2daecabc8a82124f81ba887ef35a2caf4d0",
+      "updatedAt": "2025-10-27T20:28:49.682Z"
+    },
+    {
+      "sheetName": "H_ZAG",
+      "path": "outputs/h/ZAG.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1790354500,
+      "sha": "ff4c87257108ab60fa0fdd0e25fe02e600e66141",
+      "updatedAt": "2025-10-27T20:28:53.118Z"
+    },
+    {
+      "sheetName": "TA_ZAG",
+      "path": "outputs/ta/ZAG.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 996187458,
+      "sha": "46a9f4cc99bd7ccd8f75d98d80e3b8116adb7a81",
+      "updatedAt": "2025-10-27T20:28:56.310Z"
+    },
+    {
+      "sheetName": "H_ZBAL",
+      "path": "outputs/h/ZBAL.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1911151256,
+      "sha": "19b1863af6d09e7d5e720bad9c6e377fb344f7f1",
+      "updatedAt": "2025-10-27T20:28:59.391Z"
+    },
+    {
+      "sheetName": "TA_ZBAL",
+      "path": "outputs/ta/ZBAL.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 2074055037,
+      "sha": "b7d959c417022e349cb87fdd57828383846273b2",
+      "updatedAt": "2025-10-27T20:29:02.455Z"
+    },
+    {
+      "sheetName": "H_ZCM",
+      "path": "outputs/h/ZCM.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 847454690,
+      "sha": "81521c10bb3b3972910d23eb089f94a98c47e9e2",
+      "updatedAt": "2025-10-27T20:29:04.740Z"
+    },
+    {
+      "sheetName": "TA_ZCM",
+      "path": "outputs/ta/ZCM.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 670494475,
+      "sha": "af44bf8b0e8dea531a0afcdbb380688c97deb20b",
+      "updatedAt": "2025-10-27T20:29:09.039Z"
+    },
+    {
+      "sheetName": "H_ZCN",
+      "path": "outputs/h/ZCN.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1187408581,
+      "sha": "132babddd2c365b625686a28e2d9a675e26e4bbb",
+      "updatedAt": "2025-10-27T20:29:11.062Z"
+    },
+    {
+      "sheetName": "TA_ZCN",
+      "path": "outputs/ta/ZCN.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 9178726,
+      "sha": "a05725e7f06034bc62f1be6a17968192f5b3fa83",
+      "updatedAt": "2025-10-27T20:29:15.654Z"
+    },
+    {
+      "sheetName": "H_ZCS",
+      "path": "outputs/h/ZCS.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1063643078,
+      "sha": "2bb8ae99cdaedaf98bdc70800a269ea5b2bbf5e0",
+      "updatedAt": "2025-10-27T20:29:18.040Z"
+    },
+    {
+      "sheetName": "TA_ZCS",
+      "path": "outputs/ta/ZCS.csv",
+      "error": "Address unavailable: https://api.github.com/repos/GregStoltz/sheets-mirror/contents/outputs/ta/ZCS.csv?ref=main",
+      "updatedAt": "2025-10-27T20:29:19.301Z"
+    },
+    {
+      "sheetName": "H_ZDB",
+      "path": "outputs/h/ZDB.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1506609990,
+      "sha": "d86e3022aa338539d3b8777d2a9d807e8c2c2130",
+      "updatedAt": "2025-10-27T20:29:21.597Z"
+    },
+    {
+      "sheetName": "TA_ZDB",
+      "path": "outputs/ta/ZDB.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1943251269,
+      "sha": "5fcfdac7d0a9188e05db27c5baca98022859c9db",
+      "updatedAt": "2025-10-27T20:29:25.393Z"
+    },
+    {
+      "sheetName": "H_ZDV",
+      "path": "outputs/h/ZDV.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 144274135,
+      "sha": "bcaa1a18e92cdd970832bf3243b9b4a554cda596",
+      "updatedAt": "2025-10-27T20:29:27.572Z"
+    },
+    {
+      "sheetName": "TA_ZDV",
+      "path": "outputs/ta/ZDV.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 547191544,
+      "sha": "2a4a024df7d36435339b0600e4d0ca87994111b4",
+      "updatedAt": "2025-10-27T20:29:30.909Z"
+    },
+    {
+      "sheetName": "H_ZEA",
+      "path": "outputs/h/ZEA.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 351132337,
+      "sha": "bc83fc8a0b515f4ba918b84313d08505b484c13b",
+      "updatedAt": "2025-10-27T20:29:33.839Z"
+    },
+    {
+      "sheetName": "TA_ZEA",
+      "path": "outputs/ta/ZEA.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 2072977015,
+      "sha": "981d31cee0001957253d6e35366156f596aeb170",
+      "updatedAt": "2025-10-27T20:29:36.860Z"
+    },
+    {
+      "sheetName": "H_ZEB",
+      "path": "outputs/h/ZEB.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 468029230,
+      "sha": "fa3676eeee46d2f26c837cd68b7f0aa9bbe79a6d",
+      "updatedAt": "2025-10-27T20:29:39.238Z"
+    },
+    {
+      "sheetName": "TA_ZEB",
+      "path": "outputs/ta/ZEB.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 508806910,
+      "sha": "4ebc837c08681e18b82e2ccc322cc67dafb68969",
+      "updatedAt": "2025-10-27T20:29:42.170Z"
+    },
+    {
+      "sheetName": "H_ZEM",
+      "path": "outputs/h/ZEM.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 382936466,
+      "sha": "4f15ad530d2498ac774f678f8872dd09b0b843a1",
+      "updatedAt": "2025-10-27T20:29:44.434Z"
+    },
+    {
+      "sheetName": "TA_ZEM",
+      "path": "outputs/ta/ZEM.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 122040269,
+      "sha": "cdc9e173af3e2eb887e97353f6555f24220456bd",
+      "updatedAt": "2025-10-27T20:29:47.243Z"
+    },
+    {
+      "sheetName": "H_ZEO",
+      "path": "outputs/h/ZEO.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 378759336,
+      "sha": "686ca8d363156d267190a115e636668bff65513a",
+      "updatedAt": "2025-10-27T20:29:49.315Z"
+    },
+    {
+      "sheetName": "TA_ZEO",
+      "path": "outputs/ta/ZEO.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1821925762,
+      "sha": "92303e9e934e307af029e2241c9a0871b0e2d346",
+      "updatedAt": "2025-10-27T20:29:52.511Z"
+    },
+    {
+      "sheetName": "H_ZEQT",
+      "path": "outputs/h/ZEQT.csv",
+      "rows": 932,
+      "cols": 6,
+      "sheetId": 430163899,
+      "sha": "2c37e1b7ef9e960c32df69e13b495ba560956868",
+      "updatedAt": "2025-10-27T20:29:54.628Z"
+    },
+    {
+      "sheetName": "TA_ZEQT",
+      "path": "outputs/ta/ZEQT.csv",
+      "rows": 932,
+      "cols": 49,
+      "sheetId": 364545162,
+      "sha": "f7c48447e3d9215ae46a3db0c41e28b57626a54a",
+      "updatedAt": "2025-10-27T20:29:57.254Z"
+    },
+    {
+      "sheetName": "H_ZFL",
+      "path": "outputs/h/ZFL.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1464490456,
+      "sha": "fadb42170c900b1d4900ae7c1bf27fee17e3b549",
+      "updatedAt": "2025-10-27T20:30:00.720Z"
+    },
+    {
+      "sheetName": "TA_ZFL",
+      "path": "outputs/ta/ZFL.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 975810029,
+      "sha": "d3ca6b3fb58c729e5f86a38a9b1c8c378c58cd77",
+      "updatedAt": "2025-10-27T20:30:04.283Z"
+    },
+    {
+      "sheetName": "H_ZGRO",
+      "path": "outputs/h/ZGRO.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1149753576,
+      "sha": "77414e9c648482ec149e9f4cbdb5d8e8d0b4025e",
+      "updatedAt": "2025-10-27T20:30:06.488Z"
+    },
+    {
+      "sheetName": "TA_ZGRO",
+      "path": "outputs/ta/ZGRO.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 599653361,
+      "sha": "32da5804d68767590bb98dc99af2deeaabbdead4",
+      "updatedAt": "2025-10-27T20:30:09.638Z"
+    },
+    {
+      "sheetName": "H_ZLB",
+      "path": "outputs/h/ZLB.csv",
+      "rows": 953,
+      "cols": 6,
+      "sheetId": 1964100491,
+      "sha": "026c4ce4fb1c52dcd13e5f86adffc0f2e43344d5",
+      "updatedAt": "2025-10-27T20:30:11.865Z"
+    },
+    {
+      "sheetName": "TA_ZLB",
+      "path": "outputs/ta/ZLB.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 993020738,
+      "sha": "79737bb1297d03091b0bd1822c3acad599d1e3a7",
+      "updatedAt": "2025-10-27T20:30:15.294Z"
+    },
+    {
+      "sheetName": "H_ZLC",
+      "path": "outputs/h/ZLC.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 486570808,
+      "sha": "908fbc183985410c4b1368b786537b59c923db48",
+      "updatedAt": "2025-10-27T20:30:17.640Z"
+    },
+    {
+      "sheetName": "TA_ZLC",
+      "path": "outputs/ta/ZLC.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 987830953,
+      "sha": "1405c1077f18afec1c35fca436dec7597fa3747f",
+      "updatedAt": "2025-10-27T20:30:20.354Z"
+    },
+    {
+      "sheetName": "H_ZLU",
+      "path": "outputs/h/ZLU.csv",
+      "rows": 953,
+      "cols": 6,
+      "sheetId": 475952838,
+      "sha": "788d10cc6ab920da86ae45976804deed785a8bee",
+      "updatedAt": "2025-10-27T20:30:37.434Z"
+    },
+    {
+      "sheetName": "TA_ZLU",
+      "path": "outputs/ta/ZLU.csv",
+      "rows": 953,
+      "cols": 49,
+      "sheetId": 1796005120,
+      "sha": "ed2646efea7b3f8ee1a542b7bed92a73ad577023",
+      "updatedAt": "2025-10-27T20:30:41.403Z"
+    },
+    {
+      "sheetName": "H_ZQQ",
+      "path": "outputs/h/ZQQ.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 618275073,
+      "sha": "04c0f8c1d04a1f65764a9e6fee314bcc8a4674e4",
+      "updatedAt": "2025-10-27T20:30:43.880Z"
+    },
+    {
+      "sheetName": "TA_ZQQ",
+      "path": "outputs/ta/ZQQ.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 2049851887,
+      "sha": "5d0623a754fdb06d9b08c8a89a06dd2db97d98c5",
+      "updatedAt": "2025-10-27T20:30:47.785Z"
+    },
+    {
+      "sheetName": "H_ZRE",
+      "path": "outputs/h/ZRE.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1593445261,
+      "sha": "e03d18ce0243ab30413aaa4de90fe82adf32aaea",
+      "updatedAt": "2025-10-27T20:30:50.252Z"
+    },
+    {
+      "sheetName": "TA_ZRE",
+      "path": "outputs/ta/ZRE.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 855609590,
+      "sha": "b2b2a4f1bbb038cac83f66d3495638cd1853dcc7",
+      "updatedAt": "2025-10-27T20:30:53.593Z"
+    },
+    {
+      "sheetName": "H_ZSP",
+      "path": "outputs/h/ZSP.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 625725810,
+      "sha": "6883acd35880b2da28e56f8e0dec2ae366c92a39",
+      "updatedAt": "2025-10-27T20:30:56.213Z"
+    },
+    {
+      "sheetName": "TA_ZSP",
+      "path": "outputs/ta/ZSP.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1053170133,
+      "sha": "14235527537e33bc9adfe808bf9c473dc8407a7f",
+      "updatedAt": "2025-10-27T20:30:59.990Z"
+    },
+    {
+      "sheetName": "H_ZUE",
+      "path": "outputs/h/ZUE.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 691450943,
+      "sha": "d7a6347c2b827858ed4bba6131b157f64ff3c6c9",
+      "updatedAt": "2025-10-27T20:31:02.507Z"
+    },
+    {
+      "sheetName": "TA_ZUE",
+      "path": "outputs/ta/ZUE.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 304645648,
+      "sha": "188f4c5586c53f7625fca756b6d6dc9392185ce5",
+      "updatedAt": "2025-10-27T20:31:05.963Z"
+    },
+    {
+      "sheetName": "H_^DJI",
+      "path": "outputs/h/%5EDJI.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 2002325826,
+      "sha": "ce352c7520084e5da7f23975c277f18cb1bf9346",
+      "updatedAt": "2025-10-27T20:31:08.219Z"
+    },
+    {
+      "sheetName": "TA_^DJI",
+      "path": "outputs/ta/%5EDJI.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 620228567,
+      "sha": "41790dda7bcd90383117c385d4d673dc70a51c4a",
+      "updatedAt": "2025-10-27T20:31:11.825Z"
+    },
+    {
+      "sheetName": "H_^FTSE",
+      "path": "outputs/h/%5EFTSE.csv",
+      "rows": 963,
+      "cols": 6,
+      "sheetId": 1259537468,
+      "sha": "be7fc2149b662ecca79f7665a8d97e4af3308939",
+      "updatedAt": "2025-10-27T20:31:15.020Z"
+    },
+    {
+      "sheetName": "TA_^FTSE",
+      "path": "outputs/ta/%5EFTSE.csv",
+      "rows": 963,
+      "cols": 49,
+      "sheetId": 63153901,
+      "sha": "10d7aaa9a8ae2e73d5f9d6062e88b352886f96b7",
+      "updatedAt": "2025-10-27T20:31:19.513Z"
+    },
+    {
+      "sheetName": "H_^GSPC",
+      "path": "outputs/h/%5EGSPC.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 1130038508,
+      "sha": "0a943f1412c339ed4678c30672562f8997f81b8f",
+      "updatedAt": "2025-10-27T20:31:21.913Z"
+    },
+    {
+      "sheetName": "TA_^GSPC",
+      "path": "outputs/ta/%5EGSPC.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 1427404895,
+      "sha": "b70ce9f9ad6133b86245462a03919f81ea4e96c8",
+      "updatedAt": "2025-10-27T20:31:25.170Z"
+    },
+    {
+      "sheetName": "H_^GSPTSE",
+      "path": "outputs/h/%5EGSPTSE.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 342947107,
+      "sha": "bf169ca288fd52c8ada4f4b78714326e68cb943e",
+      "updatedAt": "2025-10-27T20:31:27.471Z"
+    },
+    {
+      "sheetName": "TA_^GSPTSE",
+      "path": "outputs/ta/%5EGSPTSE.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 356188542,
+      "sha": "b05e26a2aeed5111d5428b56f65c8210891df975",
+      "updatedAt": "2025-10-27T20:31:30.593Z"
+    },
+    {
+      "sheetName": "H_^NDX",
+      "path": "outputs/h/%5ENDX.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 829342925,
+      "sha": "9246dbc3457e7bfab64b89e8f9cbf29a8a2b9277",
+      "updatedAt": "2025-10-27T20:31:33.391Z"
+    },
+    {
+      "sheetName": "TA_^NDX",
+      "path": "outputs/ta/%5ENDX.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 890483229,
+      "sha": "212db50db549d2fd0b1f8aae7895cba56d64608d",
+      "updatedAt": "2025-10-27T20:31:36.868Z"
+    },
+    {
+      "sheetName": "H_^RUT",
+      "path": "outputs/h/%5ERUT.csv",
+      "rows": 958,
+      "cols": 6,
+      "sheetId": 979290995,
+      "sha": "996231046d568259231914e81bfd56894c42a591",
+      "updatedAt": "2025-10-27T20:31:39.330Z"
+    },
+    {
+      "sheetName": "TA_^RUT",
+      "path": "outputs/ta/%5ERUT.csv",
+      "rows": 958,
+      "cols": 49,
+      "sheetId": 591068266,
+      "sha": "68c3205a412dd2e6bbe3bca2f72dca5bdfb09e16",
+      "updatedAt": "2025-10-27T20:31:42.475Z"
+    },
+    {
+      "sheetName": "H_^STOXX50E",
+      "path": "outputs/h/%5ESTOXX50E.csv",
+      "rows": 961,
+      "cols": 6,
+      "sheetId": 1126467068,
+      "sha": "0346732b486908bcca9f39cb99e3dc7848ea7a4e",
+      "updatedAt": "2025-10-27T20:31:45.061Z"
+    },
+    {
+      "sheetName": "H_^VIX",
+      "path": "outputs/h/%5EVIX.csv",
+      "rows": 996,
+      "cols": 6,
+      "sheetId": 1032107777,
+      "sha": "c5c5e4b0dd593449080f390c48f191fdafe85ebd",
+      "updatedAt": "2025-10-27T20:31:47.838Z"
+    }
+  ]
+}
